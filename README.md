@@ -11,4 +11,4 @@ Constructing the listener in Adapter and illustrate DIY raws through Adapter.
 #Demo
 -
 
-![demo](http://cuntuku.com/images/2016/12/08/demo.gif)
+![demo](demo.gif)
